@@ -11,7 +11,7 @@ const Home = () => {
         <MdAccountCircle size='5rem' color='red' />
       </div>
 
-      <Link to='/'>Home</Link>
+      <Link to='/'>Homre</Link>
       <Link to='/carrito'>Carrito</Link>
       <Link to='/product'>product</Link>
       <Link to='/search'>buscar</Link>
